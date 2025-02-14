@@ -1,6 +1,7 @@
 # 💫 About Me:
-Lover of Kotlin, Java and Golang<br>I'm currently working on VPN-service.<br>I'm looking to collaborate on some new technologies.
+Lover of Kotlin and Golang<br>I'm currently working on security and network services.<br>I'm looking to collaborate on this projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iooojik&label=Profile%20views&color=0e75b6&style=flat" alt="iooojik" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iooojik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iooojik) 
